@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+For install Webbpacker in to Rails we are need to use Github home page
+# Available Rails 5.1+
+rails new myapp --webpack
